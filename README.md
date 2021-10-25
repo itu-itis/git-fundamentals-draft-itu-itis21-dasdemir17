@@ -1,4 +1,4 @@
-# :wave: The Basics of GitHub [MODIFIED BY SERDAR GÖKTUĞ DAŞDEMİR, 150170714]
+# :wave: The Basics of GitHub [MODIFIED BY SERDAR GÖKTUĞ DAŞDEMİR, updated at 11:36, 25.10.2021]
 
 ## 🤓 Course overview and learning outcomes 
 
